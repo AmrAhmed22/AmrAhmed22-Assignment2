@@ -1,0 +1,6 @@
+loop over all the array with two pointers one on first element and the other on the last element then switch the values
+after that the first pointer move to the next element after switching and the last pointer move to the prev element
+loop all over the array and stop when the pointers met
+
+Space complexity: O(1) -> change in place
+Time  complexity: O(N) -> loop over all the array one time
